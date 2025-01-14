@@ -10,6 +10,6 @@ body, html {
     @apply font-semibold text-3xl md:text-4xl mb-1 lg:mb-2 bg-clip-text text-transparent bg-primary-purple bg-gradient-to-r from-primary-purple via-white/60 to-primary-purple;  
   }
   .bg-blur {
-    @apply absolute lg:w-[26rem] lg:h-[26rem] blur-[90px] -z-10 bg-[#6A3CC3]
+    @apply absolute blur-[90px] -z-10 bg-[#6A3CC3]
   }
 }
