@@ -13,7 +13,7 @@ body, html {
     @apply absolute blur-[90px] -z-10 bg-[#6A3CC3]
   }
   #mobile-menu {
-    @apply transition transform -translate-y-10 opacity-0 w-full left-0 right-0 z-20 bg-[#1A1D2C] duration-200 pt-2 pb-10 border-b border-white/20
+    @apply transition transform -translate-y-10 opacity-0 w-full left-0 right-0 z-20 bg-[#1A1D2C] duration-300 pt-2 pb-10 border-b border-white/20
   }
   #mobile-menu.show {
     @apply block translate-y-0 opacity-100 transition
